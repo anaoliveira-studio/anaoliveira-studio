@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anaoliveira-studio | a.k.a Ana | she/her.
-- 👀 I’m interested in web development + learning about raspberry pi 🫐 and arduino 🤖 just for the sake of building stuff!
+- 👀 I’m interested in web development + learning about raspberry pi 🫐 and arduino 🤖 just for fun!
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 🐣 You can reach me on twitter @Dev_AnaOliveira.
 - 💖 I love unicorns 🦄 as much as dragons 🏴󠁧󠁢󠁷󠁬󠁳󠁿, I have a diplodocus named Darwin and one day I'll be a 🛼👑!!
