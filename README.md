@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development + learning about raspberry pi 🫐 and arduino 🤖 just for the sake of building stuff!
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 🐣 You can reach me on twitter @Dev_AnaOliveira.
-- 💖 I love unicorns 🦄 as much as dragons 🏴󠁧󠁢󠁷󠁬󠁳󠁿, I have a stuffed diplodocus named Darwin and one day I'll be a roller skating queen!!🛼
+- 💖 I love unicorns 🦄 as much as dragons 🏴󠁧󠁢󠁷󠁬󠁳󠁿, I have a diplodocus named Darwin and one day I'll be a 🛼👑!!
 - ⌨️ My dream keyboard is the Planck EZ. 😍
 - 📍 I'm from France and Portugal. 🇫🇷|🇵🇹 = 🥖|🍷
 
